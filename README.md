@@ -12,7 +12,7 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript, EJS
 Backend: Node.js, Express.js
 Database: MongoDB
-Deployment: Render / Vercel
+Deployment: Render 
 Other: REST APIs for dynamic data handling
 
 Live Demo
